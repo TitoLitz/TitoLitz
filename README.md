@@ -14,5 +14,5 @@
 - 🧪 [TESTE](https://github.com/TitoLitz/TESTE): Teste de integração com API Python
 
 ## 📫 Como me encontrar
-- LinkedIn: [Seu perfil aqui]
-- Email: [Seu email aqui]
+- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-vitor-pistori-costa/
+- Email: joaopistori.dev@gmail.com
