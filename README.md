@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! Eu sou João Vitor (TitoLitz)
 
-<!--
-**TitoLitz/TitoLitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação  
+🌎 Brasil  
+💻 Apaixonado por banco de dados, automações e Dashboards
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso
+- Python, JavaScript
+- Git & GitHub
+- HTML, CSS, JSP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projetos em destaque
+- 🔧 [Dashboard-Javscript](https://github.com/TitoLitz/Dashboard-Javscript): Interface de monitoramento com JSP
+- 🧪 [TESTE](https://github.com/TitoLitz/TESTE): Teste de integração com API Python
+
+## 📫 Como me encontrar
+- LinkedIn: [Seu perfil aqui]
+- Email: [Seu email aqui]
