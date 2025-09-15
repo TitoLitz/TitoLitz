@@ -4,6 +4,8 @@
 🌎 Brasil  
 💻 Apaixonado por banco de dados, automações e Dashboards
 
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTIROO&theme=dark&show_icons=true) 
+
 ## 🚀 Tecnologias que uso
 - Python, JavaScript
 - Git & GitHub
