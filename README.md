@@ -1,15 +1,14 @@
 # 👋 Olá! Eu sou João Vitor (TitoLitz)
 
-🎓 Estudante de Sistemas de Informação  
+🎓 Formado em Sistemas de Informação (UFR)
 🌎 Brasil  
-💻 Apaixonado por banco de dados, automações e Dashboards
+💻 Automações e integrações
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=TitoLitz&theme=dark&show_icons=true) 
 
-## 🚀 Tecnologias que uso
-- Python, JavaScript
-- Git & GitHub
-- HTML, CSS, JSP
+## 🚀 Minha Stack:
+- Python, JavaScript, TypeScript, React, Oracle SQL
+- HTML, CSS, Git
 
 ## 📊 Projetos em destaque
 - 🔧 [Dashboard-Javscript](https://github.com/TitoLitz/Dashboard-Javscript): Interface de monitoramento com JSP
