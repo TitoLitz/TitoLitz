@@ -4,8 +4,6 @@
 🌎 Brasil  
 💻 Automações e integrações
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=TitoLitz&theme=dark&show_icons=true) 
-
 ## 🚀 Minha Stack:
 - Python, JavaScript, TypeScript, React, Oracle SQL
 - HTML, CSS, Git
